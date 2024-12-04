@@ -4,3 +4,4 @@
 #### title level 4
 ##### title level 5
 ###### title level 6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
